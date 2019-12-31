@@ -227,3 +227,9 @@
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+1577564566 source:f:\aiub slideshow\computer graphics\graphics code\village scenery project\graphics project\main.cpp
+	<cstdio>
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
